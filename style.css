@@ -5,3 +5,11 @@
     --background-color: #573824;
     --surface-color: #f0e8c2;
 }
+
+/* reset do CSS*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Alice", serif;
+}
