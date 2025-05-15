@@ -53,3 +53,20 @@ h1, h2 {
     margin-bottom: 0.4rem;
 }
 
+main{
+    max-width: 80rem;
+    background: var(--surface-color);
+    margin-inline: auto;
+    padding: 2.4rem;
+    border-radius: 2.4rem;
+
+    img {
+        border-radius: 1.5rem;
+        margin-bottom: 2.4rem;
+    }
+
+    section{
+        padding-inline: 2.4rem;
+        
+    }
+}
