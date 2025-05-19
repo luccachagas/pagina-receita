@@ -92,5 +92,11 @@ main{
             color: var(--text-color-secondary);
         }
     }
+
+    .modo-preparo{
+        p{  
+            margin-bottom:  1.2rem;
+        }
+    }
 }
 
