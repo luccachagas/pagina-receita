@@ -82,5 +82,15 @@ main{
             margin-bottom: 1.2rem;
         }
     }
+
+    .ingredientes {
+        margin-bottom: 2.4rem;
+
+        ul {
+            padding-left: 2.4rem;
+            line-height: 150%;
+            color: var(--text-color-secondary);
+        }
+    }
 }
 
